@@ -1,2 +1,2 @@
-# institutobatistabetel.github.io
+# institutobatistabetel
 Site institucional do Instituto Batista Betel
